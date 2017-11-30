@@ -1,0 +1,24 @@
+{
+  "name": "ember-cli-selectric",
+  "description": "The default blueprint for ember-cli addons.",
+  "main": "index.js",
+  "authors": [
+    "Aleksey Pohodnya <pohodnyaa@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "ember-addon"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery-selectric": "^1.13.0"
+  }
+}
